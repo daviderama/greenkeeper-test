@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/daviderama/greenkeeper-test#readme",
   "dependencies": {
-    "greenkeeper-lockfile": "^1.14.0",
     "jquery": "^1.8.3",
     "js-yaml": "^1.0.3",
     "lodash": "4.17.4",
