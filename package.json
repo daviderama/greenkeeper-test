@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/daviderama/greenkeeper-test#readme",
   "dependencies": {
-    "jquery": "1.8.3",
-    "js-yaml": "^1.0.3",
-    "lodash": "4.17.4",
+    "jquery": "3.3.1",
+    "js-yaml": "^3.11.0",
+    "lodash": "4.17.5",
     "moment": "^2.10.6",
-    "react": "^15.6.2",
+    "react": "^16.3.2",
     "ssri": "^6.0.0",
-    "underscore": "1.4.0"
+    "underscore": "1.9.0"
   }
 }
